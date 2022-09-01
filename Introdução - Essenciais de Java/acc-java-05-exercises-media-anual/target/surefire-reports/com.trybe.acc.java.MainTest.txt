@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.acc.java.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in null
+com.trybe.acc.java.MainTest.testeMain  Time elapsed: 0.017 s  <<< ERROR!
+java.util.InputMismatchException
+	at com.trybe.acc.java.MainTest.testeMain(MainTest.java:33)
+

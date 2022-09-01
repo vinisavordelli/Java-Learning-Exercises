@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/CodigosDeRetorno.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Principal.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Servidor.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveNaoEncontrada.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveEmBranco.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Conexao.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ServidorFake.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroDePix.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ProcessadorDePix.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroSaldoInsuficiente.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroInterno.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Mensagens.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroValorNaoPositivo.java">
+</file>
+<file name="/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ControladorDePix.java">
+</file>
+</checkstyle>

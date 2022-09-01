@@ -1,0 +1,14 @@
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Principal.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Conexao.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/CodigosDeRetorno.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ProcessadorDePix.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroInterno.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Servidor.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ServidorFake.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ControladorDePix.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroSaldoInsuficiente.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroDePix.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveNaoEncontrada.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroValorNaoPositivo.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveEmBranco.java
+/home/vinicius/aceleracao-java/Desafios-regulares/acc-java-05-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Mensagens.java

@@ -1,0 +1,3 @@
+{
+  "java.checkstyle.configuration": "${workspaceFolder}/.idea/checkstyle-idea.xml"
+}

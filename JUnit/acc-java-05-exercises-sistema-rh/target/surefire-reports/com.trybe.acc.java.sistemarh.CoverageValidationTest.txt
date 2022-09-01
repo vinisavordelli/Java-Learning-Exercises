@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Teste de verificação de cobertura do projeto.
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.764 s <<< FAILURE! - in Teste de verificação de cobertura do projeto.
+com.trybe.acc.java.sistemarh.CoverageValidationTest.testCoverage  Time elapsed: 4.76 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected: Test coverage > 90% but was 87.0%
+	at com.trybe.acc.java.sistemarh.CoverageValidationTest.testCoverage(CoverageValidationTest.java:46)
+

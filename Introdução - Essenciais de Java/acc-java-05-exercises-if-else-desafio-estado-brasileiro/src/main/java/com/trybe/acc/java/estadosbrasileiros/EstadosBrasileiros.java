@@ -1,0 +1,42 @@
+package com.trybe.acc.java.estadosbrasileiros;
+
+import java.util.Random;
+
+/**
+ * MainClass.
+ */
+public class EstadosBrasileiros {
+  /**
+   * Método principal para a execuçao do código.
+   */
+  public static void main(String[] args) {
+    // Sorteia uma UF.
+    String[] siglas = {"CE", "SC", "AM"};
+    int pos = new Random().nextInt(siglas.length);
+
+    // Mostra o nome do estado.
+    mostraNomeEstado(siglas[pos]);
+  }
+
+  /**
+   * Gets the correct BR state.
+   */
+  static void mostraNomeEstado(String uf) {
+    if (uf == "CE") {
+      imprime("CEARA");
+    } else if (uf == "SC") {
+      imprime("SANTA CATARINA");
+    } else if (uf == "AM") {
+      imprime("AMAZONAS");
+    } else {
+      // verificação por preciosismo, não deveria haver outro tipo de uf. Não
+      // utilizei o método `imprime()` para separar funções!
+      System.out.println("Algo deu errado!");
+    }
+  }
+
+  // Chame a função escrevendo `imprime()`.
+  static void imprime(String nomeEstado) {
+    System.out.println(nomeEstado);
+  }
+}
